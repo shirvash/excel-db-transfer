@@ -1,6 +1,5 @@
-# excel-db-transfer
-### Скрипт для переноса данных из excel в Postgres
+# Excel-PostgreSQL transfer
+### Test task for the interview.
 ###
-#### Функционал:
-Вызов производится макросом в excel, который передает путь до xlsm файла скрипту. 
-Данные берутся из определенных столбцов и записываются в базу данных PostgreSQL.
+#### Application for taking data from an Excel spreadsheet and writing to a PostgreSQL database.
+#### The script is launched according to a macro from an Excel file.
